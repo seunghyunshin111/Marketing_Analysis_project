@@ -3,7 +3,9 @@
 #### Marketing 분석 용어 정리 [(링크)]()
 <Br>
 #### Code
-- 라면_분석_EDA [(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EB%9D%BC%EB%A9%B4_%EB%B6%84%EC%84%9D_EDA.ipynb)
+- 라면_분석_EDA
+  [(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EB%9D%BC%EB%A9%B4_%EB%B6%84%EC%84%9D_EDA.ipynb)
+  
 - 제조사별 채널별 Y17 라면 시장 분석 [(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EC%A0%9C%EC%A1%B0%EC%82%AC%EB%B3%84%20%EC%B1%84%EB%84%90%EB%B3%84%20Y17%20%EB%9D%BC%EB%A9%B4%20%EC%8B%9C%EC%9E%A5%20%EB%B6%84%EC%84%9D.ipynb)
   
 - 제조사별 Y18 라면 시장 분석[(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EC%A0%9C%EC%A1%B0%EC%82%AC%EB%B3%84%20Y18%20%EB%9D%BC%EB%A9%B4%20%EC%8B%9C%EC%9E%A5%20%EB%B6%84%EC%84%9D.ipynb)
