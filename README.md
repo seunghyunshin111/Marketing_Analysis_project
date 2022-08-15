@@ -13,5 +13,5 @@
 
 - 라면_분석_판매액&판매량_종합_계산[(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EB%9D%BC%EB%A9%B4_%EB%B6%84%EC%84%9D_%ED%8C%90%EB%A7%A4%EC%95%A1%26%ED%8C%90%EB%A7%A4%EB%9F%89_%EC%A2%85%ED%95%A9_%EA%B3%84%EC%82%B0.ipynb)
 
-### - 발표 자료 [(링크)](https://github.com/seunghyunshin111/Marketing_project/blob/master/%EC%A0%84%EC%B2%B4%20%EB%9D%BC%EB%A9%B4%20%EC%8B%9C%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20Final_%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx)
+### - 발표 자료 [(링크)](https://github.com/seunghyunshin111/Marketing_Analysis_project/blob/master/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6%20%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%203%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB(%E1%84%8C%E1%85%A6%E1%84%8E%E1%85%AE%E1%86%AF).pptx)
 
